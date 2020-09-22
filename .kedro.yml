@@ -1,0 +1,6 @@
+context_path: kedro_spaceflights_project.run.ProjectContext
+project_name: "Kedro Spaceflights Project"
+project_version: "0.16.5"
+package_name: "kedro_spaceflights_project"
+hooks:
+  - kedro_spaceflights_project.hooks.project_hooks
